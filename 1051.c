@@ -7,6 +7,7 @@
 int main() {
     
     double r, V;
+    int aux  = 0;
     scanf("%lf", &r);
     V = (4 * pi * pow(r, 3)) / 3;
     printf("%.2lf\n", V);
