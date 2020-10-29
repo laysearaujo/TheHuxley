@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+# lanso a braba, boi
 
 int main() {
 
