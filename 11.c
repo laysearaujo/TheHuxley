@@ -3,6 +3,7 @@
 #include <string.h>
 #include <math.h>
 
+# lanso a braba, boi
 
 int main() {
 
