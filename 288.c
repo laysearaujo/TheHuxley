@@ -4,6 +4,7 @@
 #include <stdlib.h>
 
 int main() {
+//arrasamosss	
     int a, b, c, d, e, i;
    
         scanf("%d", &a);
