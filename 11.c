@@ -4,6 +4,7 @@
 #include <math.h>
 
 # lanso a braba, boi
+#arrasou
 
 int main() {
 
