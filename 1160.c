@@ -18,6 +18,8 @@ void distancia(int x, int y){
     return 0;
 }
 
+// a vida é bela
+
 int main(void){
     int x,y;
     scanf("%d %d",&x,&y);
